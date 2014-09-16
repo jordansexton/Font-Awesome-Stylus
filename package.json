@@ -1,0 +1,21 @@
+{
+  "name": "font-awesome-stylus",
+  "version": "4.2.0",
+  "description": "Stylus port for font-awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylus", "font-awesome"
+  ],
+  "author": "Raúl Hernández <raulghm@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:raulghm/Font-Awesome-Stylus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raulghm/Font-Awesome-Stylus/issues"
+  }
+}
